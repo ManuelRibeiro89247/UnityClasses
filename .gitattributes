@@ -1,0 +1,2 @@
+.so filter=lfs diff=lfs merge=lfs -text
+Aula[[:space:]]4/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
