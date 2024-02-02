@@ -1,9 +1,9 @@
 # UnityClasses
-Collection of small projects/exercises developed or used during AR 3D classes in university. All three folders are unity projects and they are all ment to be compiled and deployed to an Android device.
+Collection of small projects/exercises developed or used during AR 3D classes in university. All three folders are unity projects and they are all meant to be compiled and deployed to an Android device.
 
-## Aula 3
+## Aula 3 (VR/android)
 
-Extremely simple scene with only two objects. when played the ball (first object) drops on the floor (second object).
+Extremely simple VR scene with only two objects. When played the ball (first object) drops on the floor (second object).
 
 **Unity**
 
@@ -13,9 +13,9 @@ Extremely simple scene with only two objects. when played the ball (first object
 
 ![Aula_3](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/ccedb2e5-707e-4fb4-bf00-f68a7c2c8849)
 
-## Aula 4
+## Aula 4 (AR/android)
 
-Vuforia based AR app. Uses a vuforia database to recognize images and generates 3D shapes when camera points to said images (4 in total).
+Vuforia based AR app. Uses a Vuforia Database to recognize images and generates 3D shapes when camera points to said images (4 in total).
 
 **Unity**
 
@@ -25,9 +25,9 @@ Vuforia based AR app. Uses a vuforia database to recognize images and generates 
 
 ![Aula4Vuforia](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/ecd93eb3-e270-4bd8-a691-4e53fb77d1d8)
 
-## Aula 5
+## Aula 5 (VR/android)
 
-3D cenario similar to the first one, but in this one the user can look at a cube (placed close to him). If the user looks at the cube, it will start turning color. If enought time passes, the user will teleport to said location. The initial location of the user is marked by a sphere.
+3D VR scenario similar to the first one, but in this one the user can look at a cube (placed close to him). If the user looks at the cube, it will start turning color. If enough time passes, the user will teleport to said location. The initial location of the user is marked by a sphere.
 
 **Unity**
 
