@@ -3,13 +3,13 @@ Collection of small projects/exercises developed or used during AR 3D classes in
 
 ## Aula 3
 
-Extremely simple scene with only two objects. when played the ball (first object) drops on the floor (second object)
+Extremely simple scene with only two objects. when played the ball (first object) drops on the floor (second object).
 
-Unity
+**Unity**
 
 ![Aula3](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/32100638-f52d-47a2-9cb3-60680e3a7e83)
 
-Android device
+**Android device**
 
 ![Aula_3](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/ccedb2e5-707e-4fb4-bf00-f68a7c2c8849)
 
@@ -17,11 +17,11 @@ Android device
 
 Vuforia based AR app. Uses a vuforia database to recognize images and generates 3D shapes when camera points to said images (4 in total).
 
-Unity
+**Unity**
 
 ![Aula4Vuforia](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/18f30009-2d59-46e8-9749-f98dcb8f783d)
 
-Android device
+**Android device**
 
 ![Aula4Vuforia](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/ecd93eb3-e270-4bd8-a691-4e53fb77d1d8)
 
@@ -29,11 +29,11 @@ Android device
 
 3D cenario similar to the first one, but in this one the user can look at a cube (placed close to him). If the user looks at the cube, it will start turning color. If enought time passes, the user will teleport to said location. The initial location of the user is marked by a sphere.
 
-Unity
+**Unity**
 
 ![Aula5Unity](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/940dfef9-a2cf-4e4a-b94b-4a0797e21f21)
 
-Android device (start/cube changing color/original location after teleporting)
+**Android device** (start/cube changing color/original location after teleporting)
 
 ![Aula_5-inicio](https://github.com/ManuelRibeiro89247/UnityClasses/assets/61391856/58ad8740-0f0c-4c7d-afc8-e7b36572d6a7)
 
